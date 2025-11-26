@@ -1,0 +1,5 @@
+{
+  "name": "Tragetly AI",
+  "description": "A web application that allows users to create, launch, and track social media and blog campaigns for free. It leverages AI to suggest targeting options and provides a dashboard to monitor campaign performance.",
+  "requestFramePermissions": []
+}
